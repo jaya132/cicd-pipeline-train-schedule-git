@@ -27,7 +27,7 @@
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Sycamore",
+					"station": "Sycamore-1",
 					"status": "DELAYED",
 					"arrival": "1:00pm",
 					"departure": "1:10pm",
